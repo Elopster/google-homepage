@@ -1,0 +1,20 @@
+#google-logo {
+    display: block;
+    margin: auto;
+    position: relative;
+    top: 25vh;
+}
+
+#search {
+    display: block;
+    margin: auto;
+    position: relative;
+    top: 30vh;
+    border-radius: 50px;
+    border-width: 1px;
+    border-color: transparent;
+    width: 30vw;
+    height: 4vh;
+    outline-width: 0px;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.4);
+}
