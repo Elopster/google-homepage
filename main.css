@@ -18,3 +18,24 @@
     outline-width: 0px;
     box-shadow: 0px 0px 5px rgba(0,0,0,0.4);
 }
+
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 5px;
+}
+
+li {
+    padding: 5px;
+}
+
+#link {
+    text-decoration-line: none;
+    color: black;
+}
+
+#link:hover {
+   text-decoration-line: underline;
+}
